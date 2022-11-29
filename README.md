@@ -16,8 +16,7 @@ Here, we provide the codes for numerical simulations, data for experimental resu
 Detailed installation instructions and tutorials of Qutip can be found at [qutip.org/documentation](https://qutip.org/documentation.html) and [qutip.org/tutorials](https://qutip.org/tutorials.html), respectively.
 
 
-
 ## License
 
-Released under [MIT License](https://github.com/luzd19/Deep-quantum-neural-networks_equipped-with-backpropagation/blob/main/LICENSE)
+Released under [MIT License](https://github.com/luzd19/Deep-quantum-neural-networks_equipped-with-backpropagation/blob/main/LICENSE) 
 
