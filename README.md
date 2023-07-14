@@ -1,7 +1,7 @@
-# Deep quantum neural networks equipped with backpropagation on a superconducting processor
+# Deep quantum neural networks on a superconducting processor
 
 
-In our work [Deep quantum neural networks equipped with backpropagation on a superconducting processor](https://arxiv.org/abs/2212.02521), we experimentally demonstrate the training of deep quantum neural networks for several tasks on a superconducting processor.
+In our work [Deep quantum neural networks on a superconducting processor](https://arxiv.org/abs/2212.02521), we experimentally demonstrate the training of deep quantum neural networks for several tasks on a superconducting processor.
 Here, we provide the codes for numerical simulations, data for experimental results and numerical results, and the codes for plotting the figures in our paper.
 
 ## Contents
